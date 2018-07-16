@@ -1,12 +1,11 @@
 # Contributing to our projects
 
-- [1. Our development process]()
-- [2. Using Github issues]()
-    - [2.1 Bug reports ]()
-    - [2.2 Feature request]()
-- [3. Using Github pull request]()
-- [4. Contributions]()
-
+- [1. Our development process](./02-CONTRIBUTING_GUIDE.md#our-development-process)
+- [2. Using Github issues](./02-CONTRIBUTING_GUIDE.md#using-github-issues)
+    - [2.1 Bug reports ](./02-CONTRIBUTING_GUIDE.md#bug-reports)
+    - [2.2 Feature request](./02-CONTRIBUTING_GUIDE.md#feature-request)
+- [3. Using Github pull request](./02-CONTRIBUTING_GUIDE.md#using-github-pull-requests)
+- [4. Contributions](./02-CONTRIBUTING_GUIDE.md#contributions)
 
 ## Our development process
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
